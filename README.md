@@ -18,7 +18,7 @@
 - app.js : JavaScrpit Code 작성
 
 ### 실습 완료 스크린샷
-![image](https://github.com/user-attachments/assets/ef822766-1a6a-4495-8265-eb8f25c5ec69)
-![image](https://github.com/user-attachments/assets/e953dbec-8dc3-4181-8807-9eca5e99ac47)
-![image](https://github.com/user-attachments/assets/3f21fa5d-e6e9-44ce-87c9-952b5d7bd784)
-![image](https://github.com/user-attachments/assets/2ccfebd7-563a-4965-86ff-24a5f9ac1f30)
+![image](https://github.com/user-attachments/assets/f0d56721-d9a4-4aa3-be7b-cdc01d65a6a6)
+![image](https://github.com/user-attachments/assets/6c5d1206-7869-42aa-ba25-d6a501532984)
+![image](https://github.com/user-attachments/assets/d7d424f2-9c76-46ab-a4a9-14736f062717)
+![image](https://github.com/user-attachments/assets/373163f3-b9c6-4a4b-b22c-2a517afc1f96)
