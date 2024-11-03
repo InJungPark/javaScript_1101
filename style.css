@@ -1,17 +1,22 @@
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
   /* 요소의 크기를 계산하는 방식을 정의하는 속성 */
+  box-sizing: border-box;
   font-family: sans-serif;
 }
 
 body {
   background: #a5a5a5;
-  min-height: 100dvh;
   /* 뷰포트의 동적 높이를 기준으로 크기를 설정하는 단위를 의미 */
+  min-height: 100dvh;
   color: #102a42;
   line-height: 2;
+  /* 
+    items을 중앙으로 옮기는 방법 2가지 
+    1. display : flex 사용 예시
+    2. display : gird 사용 예시
+  */
   /* 
   display: flex;
   justify-content: center;
@@ -21,10 +26,37 @@ body {
   place-items: center;
 }
 
-.container{
+.container {
   background: #efebeb;
   padding: 20px;
   text-align: center;
   border-radius: 11px;
   box-shadow: 0 0 11px;
+}
+
+#value {
+  /* font-size는 rem사용 권장 */
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.btn {
+  /* 텍스트를 대문자로 변환하기 */
+  text-transform: uppercase;
+  background: transparent;
+  color: #245242;
+  padding: 4px 12px;
+  /* 글자 간격주기 px 단위로 */
+  letter-spacing: 1.4px;
+  font-size: 18px;
+  border-radius: 6px;
+  margin: 4px;
+  display: inline-block;
+  cursor: pointer;
+  transition: all 0.3s linear;
+}
+
+.btn:hover {
+  color: cadetblue;
+  background: whitesmoke;
 }
