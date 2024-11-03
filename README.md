@@ -1,5 +1,8 @@
 # JavaScrpit 기초 실습하기 Counter
-## 2024.11.01 start
+## Start : 2024.11.01
+## End : 2024.11.04
+
+## JavaScript 기초 학습 Site : https://ko.javascript.info/
 
 ### 실습 완료 캡쳐본
 ![image](https://github.com/user-attachments/assets/ef822766-1a6a-4495-8265-eb8f25c5ec69)
