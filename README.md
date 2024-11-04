@@ -5,6 +5,8 @@
 ## 학습 자료
 <p>✅ JavaScript 기초 학습 Site : https://ko.javascript.info/</p> 
 
+## author : PARK INJUNG
+
 ## 프로젝트 파일 구성
 ### 폴더 생성
 - 해당 project 폴더 만들기
