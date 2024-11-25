@@ -1,5 +1,5 @@
 # JavaScrpit 기초 실습하기 : Counter
-이 리포지토리는 JavaScript를 활용하여 기본적인 카운터 기능을 구현하는 예제입니다. 
+이 리포지토리는 JavaScript를 활용하여 기본적인 카운터 기능을 구현하는 예제입니다.<br>
 DOM 조작 및 이벤트 핸들링을 통해 JavaScript의 기초를 학습할 수 있습니다.
 ## 🎯목적
 - JavaScript 기초 학습
