@@ -1,7 +1,7 @@
 # JavaScrpit 기초 실습하기 : Counter
 이 리포지토리는 JavaScript를 활용하여 기본적인 카운터 기능을 구현하는 예제입니다.<br>
 DOM 조작 및 이벤트 핸들링을 통해 JavaScript의 기초를 학습할 수 있습니다.
-## 🎯목적
+## 🎯 목적
 - JavaScript 기초 학습 :
 DOM 조작과 이벤트 핸들링을 이해하고 연습
 - 기능 구현 경험 :
@@ -24,12 +24,12 @@ DOM 조작과 이벤트 핸들링을 이해하고 연습
 - CSS : 디자인 및 스타일링
 - JavaScript : 주요 로직 구현 (DOM 조작 및 이벤트 핸들링)
   
-## 📚학습 자료
+## 📚 학습 자료
 <p>✅ JavaScript 기초 학습 Site : https://ko.javascript.info/</p> 
 
 ## author : PARK INJUNG
 
-## 📁파일 구성
+## 📁 파일 구성
 1. 폴더 생성
 - 해당 실습을 위한 project 폴더 생성
 2. 파일 생성
@@ -44,7 +44,7 @@ CSS (style.css)
 JavaScript (app.js)
 - 버튼 클릭 이벤트 및 DOM 조작 로직 구현
 
-### 🖼️실습 완료 스크린샷
+### 🖼️ 실습 완료 스크린샷
 1. 초기화면
 2. 카운터 감소
 3. 초기화 버튼 클릭
