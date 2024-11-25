@@ -46,9 +46,9 @@ JavaScript (app.js)
 
 ### 🖼️실습 완료 스크린샷
 1. 초기화면
-2. 카운터 증가
-3. 카운터 감소
-4. 초기화 버튼 클
+2. 카운터 감소
+3. 초기화 버튼 클릭
+4. 카운터 증가
 ![image](https://github.com/user-attachments/assets/f0d56721-d9a4-4aa3-be7b-cdc01d65a6a6)
 ![image](https://github.com/user-attachments/assets/6c5d1206-7869-42aa-ba25-d6a501532984)
 ![image](https://github.com/user-attachments/assets/d7d424f2-9c76-46ab-a4a9-14736f062717)
